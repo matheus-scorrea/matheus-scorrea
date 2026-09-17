@@ -19,8 +19,8 @@ Frentes sob minha responsabilidade:
 - **Dados** — integrações entre os sistemas da empresa, data warehouse e dashboards no Metabase.
 - **Telefonia** — central Asterisk e ramais SIP.
 - **Rede** — rede interna em MikroTik.
-- **Cloud e parque** — infraestrutura em AWS e o parque de máquinas da operação.
+- **Cloud e on-prem** — AWS, servidor Proxmox local e o parque de máquinas da operação.
 
 ## Stack
 
-`PHP` · `Laravel` · `React` · `TypeScript` · `PostgreSQL` · `Docker` · `AWS` · `MikroTik` · `Asterisk` · `SIP` · `Metabase`
+`PHP` · `Laravel` · `React` · `TypeScript` · `PostgreSQL` · `Docker` · `AWS` · `Proxmox` · `MikroTik` · `Asterisk` · `SIP` · `Metabase`
