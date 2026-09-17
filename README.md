@@ -1,8 +1,10 @@
 # Matheus Correa
 
-**Coordenador de TI** na [Belluno Tecnologia](https://github.com/belluno-company) desde 2017, em **Caçapava do Sul, RS**.
+**Coordenador de TI** na [Belluno Tecnologia](https://github.com/belluno-company), em **Caçapava do Sul, RS**. Formado em **Análise e Desenvolvimento de Sistemas**.
 
-Construo e evoluo produtos internos com **Laravel**, **React** e **TypeScript**. Como coordenador, sou responsável pelos **recursos de TI** da empresa — licenças de software, certificados digitais, contratos e operação — e pelos **terceiros** que atuam no setor, num parque para **mais de 100 pessoas**.
+Antes da área, trabalhava com motores pequenos e já estudava tecnologia. Cheguei a iniciar Ciência da Computação, jogos digitais e GTI; foi em ADS que formei e segui. Entrei na Belluno em **2017** no suporte técnico do call center — o lado dos provedores de internet que contratavam o serviço, não o atendimento. Um ano depois fui supervisor técnico (2 anos), passei por TI e desenvolvimento (1 ano e meio) e hoje coordeno o setor.
+
+Construo produtos internos com **Laravel**, **React** e **TypeScript**. Como coordenador, sou responsável pelos **recursos de TI** da empresa — licenças de software, certificados digitais, contratos e operação — e pelos **terceiros** que atuam no setor, num parque para **mais de 100 pessoas**.
 
 A maior parte do trabalho roda em **repositórios privados** (APIs, dashboards e integrações em produção). Aqui fica um recorte público do que posso compartilhar.
 
